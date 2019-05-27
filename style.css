@@ -1,0 +1,51 @@
+body {
+  font-family: arial, sans-serif;
+  color: white;
+  background: url(img/sfondo.jpg) no-repeat;
+  background-size: cover;
+  margin: auto;
+  width: 50%;
+  font-size: 14px;
+}
+
+header p {
+  margin-bottom: 5px;
+}
+
+.rigagrigia {
+  color: black;
+  font-weight: bold;
+  background-color: lightgray;
+  margin-bottom: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.rigabianca {
+  color: black;
+  font-weight: bold;
+  background-color: white;
+  margin-bottom: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+#testogrigio {
+  color: grey;
+  font-weight: lighter;
+}
+
+#numero {
+  background-color: orange;
+  border-radius: 50%;
+}
+
+section p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+section p span {
+  font-size: 10px;
+  font-style: italic;
+}
